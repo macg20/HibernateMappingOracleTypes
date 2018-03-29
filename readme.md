@@ -1,0 +1,1 @@
+Hibernate mapping for OracleDB custom types
